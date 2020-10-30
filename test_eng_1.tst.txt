@@ -1,0 +1,146 @@
+$Test
+English
+Grammar Practice Test
+2020/10/02
+$Question
+Indicate the verb in the following sentence. "John has a message for his mother."
+Has
+1
+Message
+0
+For
+0
+His
+0
+#Question
+$Question
+Transitive verbs need another word to complete the idea of the expression.
+True
+1	
+False
+0
+#Question
+$Question
+Indicate which type of verb is used in the following sentence: "The tulip bloomed."
+Transitive
+0
+Intransitive
+1
+#Question
+$Question
+Indicate the direct object in the following sentence. "Stephanie gave her mother a pencil."
+Gave
+0
+Her
+0
+Mother
+0	
+Pencil
+1
+#Question
+$Question
+Indicate the indirect object in the following sentence. "Stephanie gave her mother a pencil."
+Gave
+0
+Her
+0
+Mother
+1
+Pencil
+0
+#Question
+$Question
+Perfect tenses tell about actions that have not yet been completed.
+True
+0	
+False
+1
+#Question
+$Question
+Which perfect tense is used in the following sentence: "Tom had walked all the way home before his mom arrived."
+Present Perfect Tense
+0
+Past Perfect Tense
+1
+Future Perfect Tense
+0
+None of the above
+0
+#Question
+$Question
+Indicate whether the verb is active or passive in the following sentence: "The ball broke the vase."
+Active
+1
+Passive
+0
+#Question
+$Question
+Indicate whether the verb is active or passive in the following sentence: "The vase was broken."
+Active
+0
+Passive
+1
+#Question
+$Question
+Indicate the pronoun in the following sentence: "What is the soup of the day?"
+Soup, Demonstrative
+0
+Day, Interrogative
+0
+What, Interrogative
+1
+Soup, Interrogative
+0
+#Question
+$Question
+Indicate the pronoun in the following sentence: "The name of that is mango."
+Name, Demonstrative
+0
+Of, Interrogative
+0
+Mango, Demonstrative
+0
+That, Demonstrative
+1
+#Question
+$Question
+Identify the pronoun and whether it is reflexive or intensive: " The ship's captain earned himself a good night sleep."
+Earned, Reflexive
+0
+Sleep, Intensive
+0
+Himself, Reflexive
+1
+Himself, Intensive
+0
+#Question
+$Question
+Identify the pronoun and whether it is reflexive or intensive: "Ship captains themselves often stay up all night driving the ship."
+Ship, Relexive
+0
+Themselves, Intensive
+1
+Stay, Reflexive
+0
+Night, Intensive
+0
+#Question	
+$Question
+Indefinite pronouns usually refer to a specific person or thing.
+True
+0
+False
+1
+#Question
+$Question
+All of the following are indefinite pronouns except ________________.
+Both
+0
+No one
+0
+Neither
+0
+It
+1
+#Question
+#Test
